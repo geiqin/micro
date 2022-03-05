@@ -12,9 +12,9 @@ import (
 	"github.com/geiqin/go-micro/config/cmd"
 	proto "github.com/geiqin/go-micro/config/source/service/proto"
 	log "github.com/geiqin/go-micro/logger"
-	"github.com/geiqin/micro/v2/internal/client"
-	"github.com/geiqin/micro/v2/internal/helper"
-	"github.com/geiqin/micro/v2/service/config/handler"
+	"github.com/geiqin/micro/internal/client"
+	"github.com/geiqin/micro/internal/helper"
+	"github.com/geiqin/micro/service/config/handler"
 )
 
 var (

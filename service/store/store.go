@@ -5,9 +5,9 @@ import (
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/store"
 	pb "github.com/geiqin/go-micro/store/service/proto"
-	mcli "github.com/geiqin/micro/v2/client/cli"
-	"github.com/geiqin/micro/v2/internal/helper"
-	"github.com/geiqin/micro/v2/service/store/handler"
+	mcli "github.com/geiqin/micro/client/cli"
+	"github.com/geiqin/micro/internal/helper"
+	"github.com/geiqin/micro/service/store/handler"
 	"github.com/micro/cli/v2"
 	"github.com/pkg/errors"
 )

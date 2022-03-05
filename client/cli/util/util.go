@@ -9,9 +9,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/geiqin/micro/v2/internal/config"
-	"github.com/geiqin/micro/v2/internal/platform"
-	"github.com/geiqin/micro/v2/service/runtime/profile"
+	"github.com/geiqin/micro/internal/config"
+	"github.com/geiqin/micro/internal/platform"
+	"github.com/geiqin/micro/service/runtime/profile"
 	ccli "github.com/micro/cli/v2"
 )
 

@@ -8,7 +8,7 @@ import (
 
 	log "github.com/geiqin/go-micro/logger"
 	goplugin "github.com/geiqin/go-micro/plugin"
-	"github.com/geiqin/micro/v2/plugin"
+	"github.com/geiqin/micro/plugin"
 	"github.com/micro/cli/v2"
 )
 

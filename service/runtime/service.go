@@ -21,9 +21,9 @@ import (
 	"github.com/geiqin/go-micro/runtime/local/git"
 	srvRuntime "github.com/geiqin/go-micro/runtime/service"
 	"github.com/geiqin/go-micro/util/file"
-	cliutil "github.com/geiqin/micro/v2/client/cli/util"
-	"github.com/geiqin/micro/v2/internal/client"
-	"github.com/geiqin/micro/v2/service/runtime/handler"
+	cliutil "github.com/geiqin/micro/client/cli/util"
+	"github.com/geiqin/micro/internal/client"
+	"github.com/geiqin/micro/service/runtime/handler"
 )
 
 const (

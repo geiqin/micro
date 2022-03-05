@@ -9,7 +9,7 @@ import (
 
 	"github.com/geiqin/go-micro/registry"
 	"github.com/geiqin/go-micro/util/backoff"
-	"github.com/geiqin/micro/v2/plugin"
+	"github.com/geiqin/micro/plugin"
 	"github.com/micro/cli/v2"
 )
 

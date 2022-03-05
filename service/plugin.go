@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	"github.com/geiqin/micro/v2/plugin"
+	"github.com/geiqin/micro/plugin"
 )
 
 var (

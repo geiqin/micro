@@ -24,7 +24,7 @@ import (
 	"github.com/geiqin/go-micro/sync/memory"
 	"github.com/geiqin/go-micro/util/mux"
 	"github.com/geiqin/go-micro/util/wrapper"
-	"github.com/geiqin/micro/v2/internal/helper"
+	"github.com/geiqin/micro/internal/helper"
 	"github.com/go-acme/lego/v3/providers/dns/cloudflare"
 	"github.com/micro/cli/v2"
 	"os"

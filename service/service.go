@@ -13,8 +13,8 @@ import (
 	"github.com/geiqin/go-micro/proxy/mucp"
 	"github.com/geiqin/go-micro/runtime"
 	"github.com/geiqin/go-micro/server"
-	"github.com/geiqin/micro/v2/service/handler/exec"
-	"github.com/geiqin/micro/v2/service/handler/file"
+	"github.com/geiqin/micro/service/handler/exec"
+	"github.com/geiqin/micro/service/handler/file"
 	"github.com/micro/cli/v2"
 )
 

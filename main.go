@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/geiqin/micro/v2/cmd"
+	"github.com/geiqin/micro/cmd"
 )
 
 func main() {

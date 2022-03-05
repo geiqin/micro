@@ -10,9 +10,9 @@ import (
 	"github.com/geiqin/go-micro/registry"
 	"github.com/geiqin/go-micro/registry/service"
 	pb "github.com/geiqin/go-micro/registry/service/proto"
-	rcli "github.com/geiqin/micro/v2/client/cli"
-	"github.com/geiqin/micro/v2/internal/helper"
-	"github.com/geiqin/micro/v2/service/registry/handler"
+	rcli "github.com/geiqin/micro/client/cli"
+	"github.com/geiqin/micro/internal/helper"
+	"github.com/geiqin/micro/service/registry/handler"
 	"github.com/micro/cli/v2"
 )
 

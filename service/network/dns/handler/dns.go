@@ -5,8 +5,8 @@ import (
 
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/metadata"
-	dns "github.com/geiqin/micro/v2/service/network/dns/proto/dns"
-	"github.com/geiqin/micro/v2/service/network/dns/provider"
+	dns "github.com/geiqin/micro/service/network/dns/proto/dns"
+	"github.com/geiqin/micro/service/network/dns/provider"
 	"github.com/pkg/errors"
 )
 

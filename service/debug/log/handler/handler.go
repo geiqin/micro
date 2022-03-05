@@ -6,7 +6,7 @@ import (
 
 	"github.com/geiqin/go-micro/debug/log"
 	"github.com/geiqin/go-micro/errors"
-	pb "github.com/geiqin/micro/v2/service/debug/log/proto"
+	pb "github.com/geiqin/micro/service/debug/log/proto"
 )
 
 type Log struct {

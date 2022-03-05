@@ -60,8 +60,8 @@ github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7
 github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI435gkrCt3MPfRiAkVrwSbHsst4LCFVfpJc=
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
-github.com/geiqin/go-micro v1.0.3 h1:EYDnww/c0IHyj8ib+NvdIl4Mku3OvxqM5tJlpGhBo1I=
-github.com/geiqin/go-micro v1.0.3/go.mod h1:pKH0JIhq8uOvuLgUZ+5jzpguNdXbDDlbhUNklyM2u9I=
+github.com/geiqin/go-micro v1.0.4 h1:EYDnww/c0IHyj8ib+NvdIl4Mku3OvxqM5tJlpGhBo1I=
+github.com/geiqin/go-micro v1.0.4/go.mod h1:pKH0JIhq8uOvuLgUZ+5jzpguNdXbDDlbhUNklyM2u9I=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.2.2/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=

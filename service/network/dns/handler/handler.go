@@ -2,7 +2,7 @@
 package handler
 
 import (
-	"github.com/geiqin/micro/v2/service/network/dns/provider"
+	"github.com/geiqin/micro/service/network/dns/provider"
 )
 
 // New returns a new handler

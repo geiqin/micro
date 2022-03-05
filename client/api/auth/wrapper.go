@@ -12,8 +12,8 @@ import (
 	"github.com/geiqin/go-micro/auth"
 	"github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/util/ctx"
-	inauth "github.com/geiqin/micro/v2/internal/auth"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	inauth "github.com/geiqin/micro/internal/auth"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 // Wrapper wraps a handler and authenticates requests

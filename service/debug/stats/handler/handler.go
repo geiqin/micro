@@ -12,7 +12,7 @@ import (
 	"github.com/geiqin/go-micro/errors"
 	"github.com/geiqin/go-micro/registry"
 	"github.com/geiqin/go-micro/util/ring"
-	stats "github.com/geiqin/micro/v2/service/debug/stats/proto"
+	stats "github.com/geiqin/micro/service/debug/stats/proto"
 )
 
 // New initialises and returns a new Stats service handler

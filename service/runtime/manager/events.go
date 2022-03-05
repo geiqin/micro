@@ -9,7 +9,7 @@ import (
 	"github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/runtime"
 	"github.com/geiqin/go-micro/store"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 var (

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	storecli "github.com/geiqin/micro/v2/service/store/cli"
+	storecli "github.com/geiqin/micro/service/store/cli"
 	"github.com/micro/cli/v2"
 
 	"github.com/chzyer/readline"

@@ -213,8 +213,8 @@ github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4
 github.com/fsnotify/fsnotify v1.5.1 h1:mZcQUHVQUQWoPXXtuf9yuEXKudkV2sx1E06UadKWpgI=
 github.com/fsnotify/fsnotify v1.5.1/go.mod h1:T3375wBYaZdLLcVNkcVbzGHY7f1l/uK5T5Ai1i3InKU=
 github.com/fsouza/go-dockerclient v1.6.0/go.mod h1:YWwtNPuL4XTX1SKJQk86cWPmmqwx+4np9qfPbb+znGc=
-github.com/geiqin/go-micro v1.0.3 h1:EYDnww/c0IHyj8ib+NvdIl4Mku3OvxqM5tJlpGhBo1I=
-github.com/geiqin/go-micro v1.0.3/go.mod h1:pKH0JIhq8uOvuLgUZ+5jzpguNdXbDDlbhUNklyM2u9I=
+github.com/geiqin/go-micro v1.0.4 h1:EYDnww/c0IHyj8ib+NvdIl4Mku3OvxqM5tJlpGhBo1I=
+github.com/geiqin/go-micro v1.0.4/go.mod h1:pKH0JIhq8uOvuLgUZ+5jzpguNdXbDDlbhUNklyM2u9I=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.2.2/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=

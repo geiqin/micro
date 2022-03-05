@@ -6,7 +6,7 @@ import (
 	"github.com/geiqin/go-micro"
 	"github.com/geiqin/go-micro/auth"
 	"github.com/geiqin/go-micro/errors"
-	pb "github.com/geiqin/micro/v2/service/auth/api/proto"
+	pb "github.com/geiqin/micro/service/auth/api/proto"
 )
 
 // Handler is an impementation of the auth api

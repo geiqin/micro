@@ -15,8 +15,8 @@ import (
 
 	// include usage
 
-	"github.com/geiqin/micro/v2/internal/update"
-	_ "github.com/geiqin/micro/v2/internal/usage"
+	"github.com/geiqin/micro/internal/update"
+	_ "github.com/geiqin/micro/internal/usage"
 )
 
 var (

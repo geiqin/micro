@@ -7,12 +7,12 @@ import (
 	"github.com/geiqin/go-micro/debug/log/kubernetes"
 	dservice "github.com/geiqin/go-micro/debug/service"
 	ulog "github.com/geiqin/go-micro/logger"
-	logHandler "github.com/geiqin/micro/v2/service/debug/log/handler"
-	pblog "github.com/geiqin/micro/v2/service/debug/log/proto"
-	statshandler "github.com/geiqin/micro/v2/service/debug/stats/handler"
-	pbstats "github.com/geiqin/micro/v2/service/debug/stats/proto"
-	tracehandler "github.com/geiqin/micro/v2/service/debug/trace/handler"
-	pbtrace "github.com/geiqin/micro/v2/service/debug/trace/proto"
+	logHandler "github.com/geiqin/micro/service/debug/log/handler"
+	pblog "github.com/geiqin/micro/service/debug/log/proto"
+	statshandler "github.com/geiqin/micro/service/debug/stats/handler"
+	pbstats "github.com/geiqin/micro/service/debug/stats/proto"
+	tracehandler "github.com/geiqin/micro/service/debug/trace/handler"
+	pbtrace "github.com/geiqin/micro/service/debug/trace/proto"
 	"github.com/micro/cli/v2"
 )
 

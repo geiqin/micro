@@ -6,9 +6,9 @@ import (
 
 	"github.com/geiqin/go-micro"
 	log "github.com/geiqin/go-micro/logger"
-	plugin "github.com/geiqin/micro/v2/service/debug/collector/micro"
-	"github.com/netdata/go-orchestrator"
-	"github.com/netdata/go-orchestrator/cli"
+	plugin "github.com/geiqin/micro/service/debug/collector/micro"
+	//"github.com/netdata/go-orchestrator"
+	//"github.com/netdata/go-orchestrator/cli"
 	"github.com/netdata/go-orchestrator/pkg/multipath"
 )
 
@@ -43,6 +43,7 @@ func main() {
 	// register the new plugin
 	plugin.New(service.Client()).Register()
 
+	/*
 	netdata := orchestrator.New()
 	netdata.Name = "micro.d"
 	netdata.Option = &cli.Option{
@@ -59,4 +60,6 @@ func main() {
 	}
 
 	netdata.Serve()
+
+	 */
 }

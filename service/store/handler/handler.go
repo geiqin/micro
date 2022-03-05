@@ -11,7 +11,7 @@ import (
 	"github.com/geiqin/go-micro/metadata"
 	"github.com/geiqin/go-micro/store"
 	pb "github.com/geiqin/go-micro/store/service/proto"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 type Store struct {

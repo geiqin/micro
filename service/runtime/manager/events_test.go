@@ -6,7 +6,7 @@ import (
 
 	"github.com/geiqin/go-micro/runtime"
 	"github.com/geiqin/go-micro/store/memory"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 func TestEvents(t *testing.T) {

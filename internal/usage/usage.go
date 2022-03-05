@@ -11,8 +11,8 @@ import (
 	"os"
 	"time"
 
-	pb "github.com/geiqin/micro/v2/internal/usage/proto"
-	"github.com/geiqin/micro/v2/internal/version"
+	pb "github.com/geiqin/micro/internal/usage/proto"
+	"github.com/geiqin/micro/internal/version"
 	"github.com/golang/protobuf/proto"
 	"github.com/google/uuid"
 )

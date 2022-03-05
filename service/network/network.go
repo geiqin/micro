@@ -23,11 +23,11 @@ import (
 	"github.com/geiqin/go-micro/transport/quic"
 	"github.com/geiqin/go-micro/tunnel"
 	"github.com/geiqin/go-micro/util/mux"
-	mcli "github.com/geiqin/micro/v2/client/cli"
-	"github.com/geiqin/micro/v2/internal/helper"
-	"github.com/geiqin/micro/v2/service/network/api"
-	netdns "github.com/geiqin/micro/v2/service/network/dns"
-	"github.com/geiqin/micro/v2/service/network/handler"
+	mcli "github.com/geiqin/micro/client/cli"
+	"github.com/geiqin/micro/internal/helper"
+	"github.com/geiqin/micro/service/network/api"
+	netdns "github.com/geiqin/micro/service/network/dns"
+	"github.com/geiqin/micro/service/network/handler"
 	"github.com/micro/cli/v2"
 )
 

@@ -14,7 +14,7 @@ import (
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/registry"
 	"github.com/geiqin/go-micro/util/ring"
-	trace "github.com/geiqin/micro/v2/service/debug/trace/proto"
+	trace "github.com/geiqin/micro/service/debug/trace/proto"
 )
 
 // New initialises and returns a new trace service handler

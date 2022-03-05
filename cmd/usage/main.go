@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/boltdb/bolt"
-	pb "github.com/geiqin/micro/v2/cmd/usage/proto"
+	pb "github.com/geiqin/micro/cmd/usage/proto"
 	"github.com/golang/protobuf/proto"
 	"github.com/gorilla/handlers"
 )

@@ -9,8 +9,8 @@ import (
 	"github.com/geiqin/go-micro/client"
 	proto "github.com/geiqin/go-micro/debug/service/proto"
 	log "github.com/geiqin/go-micro/logger"
-	mcli "github.com/geiqin/micro/v2/client/cli"
-	qcli "github.com/geiqin/micro/v2/internal/command/cli"
+	mcli "github.com/geiqin/micro/client/cli"
+	qcli "github.com/geiqin/micro/internal/command/cli"
 	"github.com/micro/cli/v2"
 	"golang.org/x/net/context"
 )

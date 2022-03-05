@@ -14,7 +14,7 @@ import (
 	cert "github.com/geiqin/go-micro/api/server/acme/certmagic"
 	"github.com/geiqin/go-micro/sync/memory"
 	"github.com/go-acme/lego/v3/providers/dns/cloudflare"
-	cfstore "github.com/geiqin/micro/v2/internal/plugins/store/cloudflare"
+	cfstore "github.com/geiqin/micro/internal/plugins/store/cloudflare"
 )
 
 func TestCertMagic(t *testing.T) {

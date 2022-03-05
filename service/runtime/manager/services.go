@@ -7,7 +7,7 @@ import (
 
 	"github.com/geiqin/go-micro/runtime"
 	"github.com/geiqin/go-micro/store"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 // service is the object persisted in the store

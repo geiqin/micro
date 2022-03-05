@@ -12,7 +12,7 @@ import (
 	"github.com/geiqin/go-micro/registry"
 	"github.com/geiqin/go-micro/registry/service"
 	pb "github.com/geiqin/go-micro/registry/service/proto"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 type Registry struct {

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/geiqin/go-micro/client"
-	stats "github.com/geiqin/micro/v2/service/debug/stats/proto"
+	stats "github.com/geiqin/micro/service/debug/stats/proto"
 	"github.com/netdata/go-orchestrator/module"
 )
 

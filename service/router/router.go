@@ -10,7 +10,7 @@ import (
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/router"
 	pb "github.com/geiqin/go-micro/router/service/proto"
-	"github.com/geiqin/micro/v2/service/router/handler"
+	"github.com/geiqin/micro/service/router/handler"
 	"github.com/micro/cli/v2"
 )
 

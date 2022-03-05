@@ -11,7 +11,7 @@ import (
 	"github.com/geiqin/go-micro/client"
 	"github.com/geiqin/go-micro/config/cmd"
 	"github.com/geiqin/go-micro/errors"
-	"github.com/geiqin/micro/v2/internal/helper"
+	"github.com/geiqin/micro/internal/helper"
 )
 
 type rpcRequest struct {

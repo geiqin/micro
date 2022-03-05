@@ -14,8 +14,8 @@ import (
 	"text/template"
 	"time"
 
-	tmpl "github.com/geiqin/micro/v2/internal/template"
-	"github.com/geiqin/micro/v2/internal/usage"
+	tmpl "github.com/geiqin/micro/internal/template"
+	"github.com/geiqin/micro/internal/usage"
 	"github.com/micro/cli/v2"
 	"github.com/xlab/treeprint"
 )
@@ -27,7 +27,7 @@ func protoComments(goDir, alias string) []string {
 		"\ndownload protobuf for micro:\n",
 		"go get -u github.com/golang/protobuf/proto",
 		"go get -u github.com/golang/protobuf/protoc-gen-go",
-		"go get github.com/geiqin/micro/v2/cmd/protoc-gen-micro",
+		"go get github.com/geiqin/micro/cmd/protoc-gen-micro",
 		"\ncompile the proto file " + alias + ".proto:\n",
 		"cd " + goDir,
 		"make proto\n",

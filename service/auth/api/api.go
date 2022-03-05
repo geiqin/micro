@@ -5,7 +5,7 @@ import (
 	"github.com/geiqin/go-micro"
 	log "github.com/geiqin/go-micro/logger"
 
-	pb "github.com/geiqin/micro/v2/service/auth/api/proto"
+	pb "github.com/geiqin/micro/service/auth/api/proto"
 )
 
 var (

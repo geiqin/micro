@@ -11,8 +11,8 @@ import (
 	"github.com/pkg/errors"
 
 	log "github.com/geiqin/go-micro/logger"
-	dns "github.com/geiqin/micro/v2/service/network/dns/proto/dns"
-	"github.com/geiqin/micro/v2/service/network/dns/provider"
+	dns "github.com/geiqin/micro/service/network/dns/proto/dns"
+	"github.com/geiqin/micro/service/network/dns/provider"
 )
 
 type cfProvider struct {

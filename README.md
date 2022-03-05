@@ -74,7 +74,7 @@ Go Micro abstracts away the complexity of distributed systems and provides simpl
 From source
 
 ```
-go get github.com/geiqin/micro/v2
+go get github.com/geiqin/micro
 ```
 
 Docker image

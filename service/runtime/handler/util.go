@@ -12,7 +12,7 @@ import (
 
 	"github.com/geiqin/go-micro/runtime"
 	pb "github.com/geiqin/go-micro/runtime/service/proto"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 func toProto(s *runtime.Service) *pb.Service {

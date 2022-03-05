@@ -6,9 +6,9 @@ import (
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/micro/cli/v2"
 
-	"github.com/geiqin/micro/v2/service/network/dns/handler"
-	dns "github.com/geiqin/micro/v2/service/network/dns/proto/dns"
-	"github.com/geiqin/micro/v2/service/network/dns/provider/cloudflare"
+	"github.com/geiqin/micro/service/network/dns/handler"
+	dns "github.com/geiqin/micro/service/network/dns/proto/dns"
+	"github.com/geiqin/micro/service/network/dns/provider/cloudflare"
 )
 
 // Run is the entrypoint for network/dns

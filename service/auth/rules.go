@@ -10,7 +10,7 @@ import (
 
 	pb "github.com/geiqin/go-micro/auth/service/proto"
 	"github.com/geiqin/go-micro/errors"
-	"github.com/geiqin/micro/v2/internal/client"
+	"github.com/geiqin/micro/internal/client"
 	"github.com/micro/cli/v2"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net/url"
 
 	"github.com/geiqin/go-micro/logger"
-	"github.com/geiqin/micro/v2/service/store/snapshot"
+	"github.com/geiqin/micro/service/store/snapshot"
 	"github.com/micro/cli/v2"
 	"github.com/pkg/errors"
 )

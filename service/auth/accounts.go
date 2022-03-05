@@ -11,7 +11,7 @@ import (
 	"github.com/micro/cli/v2"
 	"github.com/geiqin/go-micro/auth"
 	pb "github.com/geiqin/go-micro/auth/service/proto"
-	"github.com/geiqin/micro/v2/internal/client"
+	"github.com/geiqin/micro/internal/client"
 )
 
 func listAccounts(ctx *cli.Context) {

@@ -8,9 +8,9 @@ import (
 	"github.com/geiqin/go-micro/client/grpc"
 	"github.com/geiqin/go-micro/metadata"
 	ccli "github.com/micro/cli/v2"
-	"github.com/geiqin/micro/v2/client/cli/util"
-	cliutil "github.com/geiqin/micro/v2/client/cli/util"
-	"github.com/geiqin/micro/v2/internal/config"
+	"github.com/geiqin/micro/client/cli/util"
+	cliutil "github.com/geiqin/micro/client/cli/util"
+	"github.com/geiqin/micro/internal/config"
 )
 
 // New returns a wrapped grpc client which will inject the

@@ -9,7 +9,7 @@ import (
 	pb "github.com/geiqin/go-micro/auth/service/proto"
 	"github.com/geiqin/go-micro/errors"
 	"github.com/geiqin/go-micro/store"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 // List returns all auth accounts

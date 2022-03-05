@@ -10,9 +10,9 @@ import (
 	log "github.com/geiqin/go-micro/logger"
 	"github.com/geiqin/go-micro/runtime"
 	pb "github.com/geiqin/go-micro/runtime/service/proto"
-	"github.com/geiqin/micro/v2/service/runtime/handler"
-	"github.com/geiqin/micro/v2/service/runtime/manager"
-	"github.com/geiqin/micro/v2/service/runtime/profile"
+	"github.com/geiqin/micro/service/runtime/handler"
+	"github.com/geiqin/micro/service/runtime/manager"
+	"github.com/geiqin/micro/service/runtime/profile"
 )
 
 var (

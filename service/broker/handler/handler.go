@@ -7,7 +7,7 @@ import (
 	pb "github.com/geiqin/go-micro/broker/service/proto"
 	"github.com/geiqin/go-micro/errors"
 	log "github.com/geiqin/go-micro/logger"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 type Broker struct {

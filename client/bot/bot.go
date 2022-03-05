@@ -17,7 +17,7 @@ import (
 	"github.com/geiqin/go-micro/agent/command"
 	"github.com/geiqin/go-micro/agent/input"
 	log "github.com/geiqin/go-micro/logger"
-	botc "github.com/geiqin/micro/v2/internal/command/bot"
+	botc "github.com/geiqin/micro/internal/command/bot"
 
 	proto "github.com/geiqin/go-micro/agent/proto"
 

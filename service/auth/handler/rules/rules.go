@@ -11,7 +11,7 @@ import (
 	"github.com/geiqin/go-micro/errors"
 	"github.com/geiqin/go-micro/store"
 	memStore "github.com/geiqin/go-micro/store/memory"
-	"github.com/geiqin/micro/v2/internal/namespace"
+	"github.com/geiqin/micro/internal/namespace"
 )
 
 const (

@@ -16,13 +16,13 @@ import (
 	"github.com/geiqin/go-micro/config/cmd"
 	"github.com/geiqin/go-micro/errors"
 	log "github.com/geiqin/go-micro/logger"
-	cliutil "github.com/geiqin/micro/v2/client/cli/util"
-	"github.com/geiqin/micro/v2/internal/client"
-	"github.com/geiqin/micro/v2/internal/config"
-	"github.com/geiqin/micro/v2/internal/helper"
-	"github.com/geiqin/micro/v2/service/auth/api"
-	authHandler "github.com/geiqin/micro/v2/service/auth/handler/auth"
-	rulesHandler "github.com/geiqin/micro/v2/service/auth/handler/rules"
+	cliutil "github.com/geiqin/micro/client/cli/util"
+	"github.com/geiqin/micro/internal/client"
+	"github.com/geiqin/micro/internal/config"
+	"github.com/geiqin/micro/internal/helper"
+	"github.com/geiqin/micro/service/auth/api"
+	authHandler "github.com/geiqin/micro/service/auth/handler/auth"
+	rulesHandler "github.com/geiqin/micro/service/auth/handler/rules"
 )
 
 var (

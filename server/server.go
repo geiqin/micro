@@ -10,8 +10,8 @@ import (
 	log "github.com/geiqin/go-micro/logger"
 	gorun "github.com/geiqin/go-micro/runtime"
 	handler "github.com/geiqin/go-micro/util/file"
-	"github.com/geiqin/micro/v2/internal/platform"
-	"github.com/geiqin/micro/v2/internal/update"
+	"github.com/geiqin/micro/internal/platform"
+	"github.com/geiqin/micro/internal/update"
 	"github.com/micro/cli/v2"
 )
 

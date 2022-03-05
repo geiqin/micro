@@ -21,8 +21,8 @@ import (
 	"github.com/geiqin/go-micro/registry"
 	"github.com/geiqin/go-micro/registry/service"
 	"github.com/micro/cli/v2"
-	inclient "github.com/geiqin/micro/v2/internal/client"
-	dns "github.com/geiqin/micro/v2/service/network/dns/proto/dns"
+	inclient "github.com/geiqin/micro/internal/client"
+	dns "github.com/geiqin/micro/service/network/dns/proto/dns"
 
 	"github.com/olekukonko/tablewriter"
 	"github.com/serenize/snaker"
