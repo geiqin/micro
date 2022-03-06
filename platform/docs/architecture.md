@@ -27,7 +27,7 @@ is as follows:
 
 - Platform - Micro as a Service. Fully managed platform - Hosted product and commercially licensed
 - Runtime - [Micro](https://github.com/geiqin/micro) is a runtime for services - Open source Apache 2.0 licensed
-- Framework - [Go Micro](https://github.com/micro/go-micro) is a framework for microservices development - Open source Apache 2.0 licensed
+- Framework - [Go Micro](https://github.com/geiqin/go-micro) is a framework for microservices development - Open source Apache 2.0 licensed
 
 ## Diagram
 

@@ -170,7 +170,7 @@ func copyAPIProto(c config) (string, error) {
 		return "", errors.New("Unable to find go-micro version. Please try `go get github.com/geiqin/go-micro`")
 	}
 
-	input, err := ioutil.ReadFile(fmt.Sprintf("%s/pkg/mod/github.com/micro/go-micro/%s/api/proto/api.proto", basedir, newestDir))
+	input, err := ioutil.ReadFile(fmt.Sprintf("%s/pkg/mod/github.com/geiqin/go-micro/%s/api/proto/api.proto", basedir, newestDir))
 	if err != nil {
 		return "", err
 	}
