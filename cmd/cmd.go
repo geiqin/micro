@@ -7,7 +7,6 @@ import (
 	"os/exec"
 	"sort"
 
-	ccli "github.com/micro/cli/v2"
 	"github.com/geiqin/go-micro"
 	"github.com/geiqin/go-micro/config/cmd"
 	gostore "github.com/geiqin/go-micro/store"
@@ -15,6 +14,7 @@ import (
 	"github.com/geiqin/micro/plugin/build"
 	"github.com/geiqin/micro/server"
 	"github.com/geiqin/micro/service"
+	ccli "github.com/micro/cli/v2"
 
 	// clients
 	"github.com/geiqin/micro/client/api"
